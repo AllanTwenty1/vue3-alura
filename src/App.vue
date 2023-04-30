@@ -1,9 +1,9 @@
 <template>
-  <main class="colums is-gapless is-multiline">
+  <main class="columns is-gapless is-multiline">
     <div class="column is-one-quarter">
       <barraLateral  />
     </div>
-    <div class="column is-one-quarter">
+    <div class="column auto">
      <Formulario />
     </div>
   </main> 
